@@ -1,0 +1,21 @@
+.sh{
+    color: rgb(15, 15, 15);
+   margin-right: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+.color{
+    color: red;
+}
+.banner{
+    background-color: rgb(202, 248, 233);
+}
+.test{
+    color: rgb(15, 15, 15);
+    margin-right: 100px;
+     display: flex;
+     justify-content: space-between;
+     padding: 100px;
+    margin-left: 150px;
+}
